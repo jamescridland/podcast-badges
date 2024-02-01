@@ -57,7 +57,6 @@ When designing Podlink, I hunted down vector versions of all the podcast app ico
 | Podverse | ![Podverse icon](icons/podverse.svg) | ![Listen on Podverse](badges/podverse-light.svg) | ![Listen on Podverse](badges/podverse-dark.svg) |
 | [Podyssey](https://podyssey.fm/podcast-creators) | ![Podyssey icon](icons/podyssey.svg) | ![Listen on Podyssey](badges/podyssey-light.svg) | ![Listen on Podyssey](badges/podyssey-dark.svg) |
 | [Podvine](https://podvine.com/link-a-podcast) | ![Podvine icon](icons/podvine.svg) | ![Listen on Podvine](badges/podvine-light.svg) | ![Listen on Podvine](badges/podvine-dark.svg) |
-| [RadioPublic](https://about.radiopublic.com/2017/06/28/how-to-set-up-your-listen-with-radiopublic-badge/) | ![RadioPublic icon](icons/radiopublic.svg) | ![Listen on RadioPublic](badges/radiopublic-light.svg) | ![Listen on RadioPublic](badges/radiopublic-dark.svg) |
 | Rephonic | ![Rephonic icon](icons/rephonic.svg) | ![Listen on Rephonic](badges/rephonic-light.svg) | ![Listen on Rephonic](badges/rephonic-dark.svg) |
 | Resso | ![Resso icon](icons/resso.svg) | ![Listen on Resso](badges/resso-light.svg) | ![Listen on Resso](badges/resso-dark.svg) |
 | RSS | ![RSS icon](icons/rss.svg) | ![Listen on RSS](badges/rss-light.svg) | ![Listen on RSS](badges/rss-dark.svg) |
